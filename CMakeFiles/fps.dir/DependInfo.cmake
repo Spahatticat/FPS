@@ -11,6 +11,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/glad.c" "CMakeFiles/fps.dir/src/glad.c.obj" "gcc" "CMakeFiles/fps.dir/src/glad.c.obj.d"
   "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Camera.cpp" "CMakeFiles/fps.dir/src/Engine/Camera.cpp.obj" "gcc" "CMakeFiles/fps.dir/src/Engine/Camera.cpp.obj.d"
   "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Entity.cpp" "CMakeFiles/fps.dir/src/Engine/Entity.cpp.obj" "gcc" "CMakeFiles/fps.dir/src/Engine/Entity.cpp.obj.d"
+  "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Mesh.cpp" "CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj" "gcc" "CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj.d"
+  "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Model.cpp" "CMakeFiles/fps.dir/src/Engine/Model.cpp.obj" "gcc" "CMakeFiles/fps.dir/src/Engine/Model.cpp.obj.d"
   "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Shader.cpp" "CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj" "gcc" "CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj.d"
   "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/main.cpp" "CMakeFiles/fps.dir/src/main.cpp.obj" "gcc" "CMakeFiles/fps.dir/src/main.cpp.obj.d"
   )

@@ -7,6 +7,10 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/Program Files (x86)/Assimp/lib/cmake/assimp-6.0/assimpConfig.cmake"
+  "C:/Program Files (x86)/Assimp/lib/cmake/assimp-6.0/assimpConfigVersion.cmake"
+  "C:/Program Files (x86)/Assimp/lib/cmake/assimp-6.0/assimpTargets-noconfig.cmake"
+  "C:/Program Files (x86)/Assimp/lib/cmake/assimp-6.0/assimpTargets.cmake"
   "C:/Program Files (x86)/GLFW/lib/cmake/glfw3/glfw3Config.cmake"
   "C:/Program Files (x86)/GLFW/lib/cmake/glfw3/glfw3ConfigVersion.cmake"
   "C:/Program Files (x86)/GLFW/lib/cmake/glfw3/glfw3Targets-noconfig.cmake"

@@ -1,6 +1,6 @@
-CMakeFiles/fps.dir/src/Engine/Entity.cpp.obj: \
- C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Entity.cpp \
- C:/Users/robby/OneDrive/Desktop/Programming/FPS/include/Engine/Entity.h \
+CMakeFiles/fps.dir/src/Engine/Model.cpp.obj: \
+ C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Model.cpp \
+ C:/Users/robby/OneDrive/Desktop/Programming/FPS/include/Engine/Model.h \
  C:/PROGRA~2/glm/include/glm/glm.hpp \
  C:/PROGRA~2/glm/include/glm/detail/_fixes.hpp \
  C:/msys64/mingw64/include/c++/15.2.0/cmath \
@@ -249,4 +249,69 @@ CMakeFiles/fps.dir/src/Engine/Entity.cpp.obj: \
  C:/PROGRA~2/glm/include/glm/detail/type_half.hpp \
  C:/PROGRA~2/glm/include/glm/detail/type_half.inl \
  C:/PROGRA~2/glm/include/glm/integer.hpp \
- C:/PROGRA~2/glm/include/glm/detail/func_integer.inl
+ C:/PROGRA~2/glm/include/glm/detail/func_integer.inl \
+ C:/PROGRA~2/Assimp/include/assimp/Importer.hpp \
+ C:/PROGRA~2/Assimp/include/assimp/types.h \
+ C:/msys64/mingw64/include/string.h \
+ C:/msys64/mingw64/include/sec_api/string_s.h \
+ C:/msys64/mingw64/include/sys/types.h \
+ C:/msys64/mingw64/include/_mingw_off_t.h \
+ C:/PROGRA~2/Assimp/include/assimp/defs.h \
+ C:/PROGRA~2/Assimp/include/assimp/config.h \
+ C:/PROGRA~2/Assimp/include/assimp/vector2.h \
+ C:/PROGRA~2/Assimp/include/assimp/vector3.h \
+ C:/PROGRA~2/Assimp/include/assimp/color4.h \
+ C:/PROGRA~2/Assimp/include/assimp/matrix3x3.h \
+ C:/PROGRA~2/Assimp/include/assimp/matrix4x4.h \
+ C:/PROGRA~2/Assimp/include/assimp/quaternion.h \
+ C:/msys64/mingw64/include/c++/15.2.0/cstring \
+ C:/msys64/mingw64/include/c++/15.2.0/string \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/stringfwd.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/char_traits.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/postypes.h \
+ C:/msys64/mingw64/include/c++/15.2.0/cwchar \
+ C:/msys64/mingw64/include/wchar.h \
+ C:/msys64/mingw64/include/corecrt_stdio_config.h \
+ C:/msys64/mingw64/include/corecrt_wconio.h \
+ C:/msys64/mingw64/include/sec_api/wconio_s.h \
+ C:/msys64/mingw64/include/corecrt_wctype.h \
+ C:/msys64/mingw64/include/_mingw_stat64.h \
+ C:/msys64/mingw64/include/swprintf.inl \
+ C:/msys64/mingw64/include/sec_api/wchar_s.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/localefwd.h \
+ C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h \
+ C:/msys64/mingw64/include/c++/15.2.0/clocale \
+ C:/msys64/mingw64/include/locale.h C:/msys64/mingw64/include/stdio.h \
+ C:/msys64/mingw64/include/sec_api/stdio_s.h \
+ C:/msys64/mingw64/include/c++/15.2.0/iosfwd \
+ C:/msys64/mingw64/include/c++/15.2.0/cctype \
+ C:/msys64/mingw64/include/ctype.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/ostream_insert.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/cxxabi_forced.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/basic_string.h \
+ C:/msys64/mingw64/include/c++/15.2.0/string_view \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/string_view.tcc \
+ C:/msys64/mingw64/include/c++/15.2.0/ext/string_conversions.h \
+ C:/msys64/mingw64/include/c++/15.2.0/cstdio \
+ C:/msys64/mingw64/include/c++/15.2.0/cerrno \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/charconv.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/basic_string.tcc \
+ C:/PROGRA~2/Assimp/include/assimp/vector2.inl \
+ C:/PROGRA~2/Assimp/include/assimp/vector3.inl \
+ C:/PROGRA~2/Assimp/include/assimp/color4.inl \
+ C:/PROGRA~2/Assimp/include/assimp/matrix3x3.inl \
+ C:/msys64/mingw64/include/c++/15.2.0/algorithm \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/stl_algo.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/algorithmfwd.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/stl_heap.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/uniform_int_dist.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/stl_tempbuf.h \
+ C:/msys64/mingw64/include/c++/15.2.0/pstl/glue_algorithm_defs.h \
+ C:/msys64/mingw64/include/c++/15.2.0/pstl/execution_defs.h \
+ C:/PROGRA~2/Assimp/include/assimp/matrix4x4.inl \
+ C:/PROGRA~2/Assimp/include/assimp/MathFunctions.h \
+ C:/PROGRA~2/Assimp/include/assimp/quaternion.inl \
+ C:/msys64/mingw64/include/c++/15.2.0/exception \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/exception_ptr.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
+ C:/msys64/mingw64/include/c++/15.2.0/bits/nested_exception.h

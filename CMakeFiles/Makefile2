@@ -84,12 +84,12 @@ clean: CMakeFiles/fps.dir/clean
 CMakeFiles/fps.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target fps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target fps"
 .PHONY : CMakeFiles/fps.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/fps.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/fps.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles 0
 .PHONY : CMakeFiles/fps.dir/rule
@@ -101,7 +101,7 @@ fps: CMakeFiles/fps.dir/rule
 # codegen rule for target.
 CMakeFiles/fps.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target fps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Finished codegen for target fps"
 .PHONY : CMakeFiles/fps.dir/codegen
 
 # clean rule for target.

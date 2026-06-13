@@ -1,6 +1,6 @@
 CMakeFiles/fps.dir/src/Engine/Camera.cpp.obj: \
  C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Camera.cpp \
- C:/Users/robby/OneDrive/Desktop/Programming/FPS/include/Camera.h \
+ C:/Users/robby/OneDrive/Desktop/Programming/FPS/include/Engine/Camera.h \
  C:/PROGRA~2/glm/include/glm/glm.hpp \
  C:/PROGRA~2/glm/include/glm/detail/_fixes.hpp \
  C:/msys64/mingw64/include/c++/15.2.0/cmath \
@@ -18,7 +18,6 @@ CMakeFiles/fps.dir/src/Engine/Camera.cpp.obj: \
  C:/msys64/mingw64/include/_mingw_mac.h \
  C:/msys64/mingw64/include/_mingw_secapi.h \
  C:/msys64/mingw64/include/vadefs.h \
- C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
  C:/msys64/mingw64/include/c++/15.2.0/bits/std_abs.h \
  C:/msys64/mingw64/include/stdlib.h \
  C:/msys64/mingw64/include/corecrt_wstdlib.h \

@@ -101,11 +101,41 @@ CMakeFiles/fps.dir/src/Engine/Entity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/fps.dir/src/Engine/Entity.cpp.s"
 	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Entity.cpp -o CMakeFiles\fps.dir\src\Engine\Entity.cpp.s
 
+CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj: CMakeFiles/fps.dir/flags.make
+CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj: CMakeFiles/fps.dir/includes_CXX.rsp
+CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj: C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Mesh.cpp
+CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj: CMakeFiles/fps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj -MF CMakeFiles\fps.dir\src\Engine\Mesh.cpp.obj.d -o CMakeFiles\fps.dir\src\Engine\Mesh.cpp.obj -c C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Mesh.cpp
+
+CMakeFiles/fps.dir/src/Engine/Mesh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/fps.dir/src/Engine/Mesh.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Mesh.cpp > CMakeFiles\fps.dir\src\Engine\Mesh.cpp.i
+
+CMakeFiles/fps.dir/src/Engine/Mesh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/fps.dir/src/Engine/Mesh.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Mesh.cpp -o CMakeFiles\fps.dir\src\Engine\Mesh.cpp.s
+
+CMakeFiles/fps.dir/src/Engine/Model.cpp.obj: CMakeFiles/fps.dir/flags.make
+CMakeFiles/fps.dir/src/Engine/Model.cpp.obj: CMakeFiles/fps.dir/includes_CXX.rsp
+CMakeFiles/fps.dir/src/Engine/Model.cpp.obj: C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Model.cpp
+CMakeFiles/fps.dir/src/Engine/Model.cpp.obj: CMakeFiles/fps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/fps.dir/src/Engine/Model.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/fps.dir/src/Engine/Model.cpp.obj -MF CMakeFiles\fps.dir\src\Engine\Model.cpp.obj.d -o CMakeFiles\fps.dir\src\Engine\Model.cpp.obj -c C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Model.cpp
+
+CMakeFiles/fps.dir/src/Engine/Model.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/fps.dir/src/Engine/Model.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Model.cpp > CMakeFiles\fps.dir\src\Engine\Model.cpp.i
+
+CMakeFiles/fps.dir/src/Engine/Model.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/fps.dir/src/Engine/Model.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Model.cpp -o CMakeFiles\fps.dir\src\Engine\Model.cpp.s
+
 CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj: CMakeFiles/fps.dir/flags.make
 CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj: CMakeFiles/fps.dir/includes_CXX.rsp
 CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj: C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Shader.cpp
 CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj: CMakeFiles/fps.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj"
 	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj -MF CMakeFiles\fps.dir\src\Engine\Shader.cpp.obj.d -o CMakeFiles\fps.dir\src\Engine\Shader.cpp.obj -c C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\Engine\Shader.cpp
 
 CMakeFiles/fps.dir/src/Engine/Shader.cpp.i: cmake_force
@@ -120,7 +150,7 @@ CMakeFiles/fps.dir/src/glad.c.obj: CMakeFiles/fps.dir/flags.make
 CMakeFiles/fps.dir/src/glad.c.obj: CMakeFiles/fps.dir/includes_C.rsp
 CMakeFiles/fps.dir/src/glad.c.obj: C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/glad.c
 CMakeFiles/fps.dir/src/glad.c.obj: CMakeFiles/fps.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/fps.dir/src/glad.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/fps.dir/src/glad.c.obj"
 	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/fps.dir/src/glad.c.obj -MF CMakeFiles\fps.dir\src\glad.c.obj.d -o CMakeFiles\fps.dir\src\glad.c.obj -c C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\glad.c
 
 CMakeFiles/fps.dir/src/glad.c.i: cmake_force
@@ -135,7 +165,7 @@ CMakeFiles/fps.dir/src/main.cpp.obj: CMakeFiles/fps.dir/flags.make
 CMakeFiles/fps.dir/src/main.cpp.obj: CMakeFiles/fps.dir/includes_CXX.rsp
 CMakeFiles/fps.dir/src/main.cpp.obj: C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/main.cpp
 CMakeFiles/fps.dir/src/main.cpp.obj: CMakeFiles/fps.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/fps.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/fps.dir/src/main.cpp.obj"
 	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/fps.dir/src/main.cpp.obj -MF CMakeFiles\fps.dir\src\main.cpp.obj.d -o CMakeFiles\fps.dir\src\main.cpp.obj -c C:\Users\robby\OneDrive\Desktop\Programming\FPS\src\main.cpp
 
 CMakeFiles/fps.dir/src/main.cpp.i: cmake_force
@@ -150,6 +180,8 @@ CMakeFiles/fps.dir/src/main.cpp.s: cmake_force
 fps_OBJECTS = \
 "CMakeFiles/fps.dir/src/Engine/Camera.cpp.obj" \
 "CMakeFiles/fps.dir/src/Engine/Entity.cpp.obj" \
+"CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj" \
+"CMakeFiles/fps.dir/src/Engine/Model.cpp.obj" \
 "CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj" \
 "CMakeFiles/fps.dir/src/glad.c.obj" \
 "CMakeFiles/fps.dir/src/main.cpp.obj"
@@ -159,16 +191,20 @@ fps_EXTERNAL_OBJECTS =
 
 bin/fps.exe: CMakeFiles/fps.dir/src/Engine/Camera.cpp.obj
 bin/fps.exe: CMakeFiles/fps.dir/src/Engine/Entity.cpp.obj
+bin/fps.exe: CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj
+bin/fps.exe: CMakeFiles/fps.dir/src/Engine/Model.cpp.obj
 bin/fps.exe: CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj
 bin/fps.exe: CMakeFiles/fps.dir/src/glad.c.obj
 bin/fps.exe: CMakeFiles/fps.dir/src/main.cpp.obj
 bin/fps.exe: CMakeFiles/fps.dir/build.make
 bin/fps.exe: C:/Program\ Files\ (x86)/GLFW/lib/libglfw3.a
 bin/fps.exe: C:/Program\ Files\ (x86)/glm/lib/libglm.a
+bin/fps.exe: C:/Program\ Files\ (x86)/Assimp/lib/libassimp.dll.a
+bin/fps.exe: C:/Program\ Files\ (x86)/Assimp/lib/libzlibstatic.a
 bin/fps.exe: CMakeFiles/fps.dir/linkLibs.rsp
 bin/fps.exe: CMakeFiles/fps.dir/objects1.rsp
 bin/fps.exe: CMakeFiles/fps.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable bin\fps.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\robby\OneDrive\Desktop\Programming\FPS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable bin\fps.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\fps.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

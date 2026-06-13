@@ -1,1 +1,1 @@
- "C:/Program Files (x86)/GLFW/lib/libglfw3.a" "C:/Program Files (x86)/glm/lib/libglm.a" -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ "C:/Program Files (x86)/GLFW/lib/libglfw3.a" "C:/Program Files (x86)/glm/lib/libglm.a" -lopengl32 "C:/Program Files (x86)/Assimp/lib/libassimp.dll.a" "C:/Program Files (x86)/Assimp/lib/libzlibstatic.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

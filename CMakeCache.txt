@@ -277,6 +277,9 @@ OPENGL_gl_LIBRARY:STRING=opengl32
 //GLU library for win32
 OPENGL_glu_LIBRARY:STRING=glu32
 
+//The directory containing a CMake configuration file for assimp.
+assimp_DIR:PATH=C:/Program Files (x86)/Assimp/lib/cmake/assimp-6.0
+
 //The directory containing a CMake configuration file for glfw3.
 glfw3_DIR:PATH=C:/Program Files (x86)/GLFW/lib/cmake/glfw3
 

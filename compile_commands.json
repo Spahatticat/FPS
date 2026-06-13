@@ -13,6 +13,18 @@
 },
 {
   "directory": "C:/Users/robby/OneDrive/Desktop/Programming/FPS/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/fps.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\fps.dir\\src\\Engine\\Mesh.cpp.obj -c C:\\Users\\robby\\OneDrive\\Desktop\\Programming\\FPS\\src\\Engine\\Mesh.cpp",
+  "file": "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Mesh.cpp",
+  "output": "CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/robby/OneDrive/Desktop/Programming/FPS/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/fps.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\fps.dir\\src\\Engine\\Model.cpp.obj -c C:\\Users\\robby\\OneDrive\\Desktop\\Programming\\FPS\\src\\Engine\\Model.cpp",
+  "file": "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Model.cpp",
+  "output": "CMakeFiles/fps.dir/src/Engine/Model.cpp.obj"
+},
+{
+  "directory": "C:/Users/robby/OneDrive/Desktop/Programming/FPS/build",
   "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/fps.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\fps.dir\\src\\Engine\\Shader.cpp.obj -c C:\\Users\\robby\\OneDrive\\Desktop\\Programming\\FPS\\src\\Engine\\Shader.cpp",
   "file": "C:/Users/robby/OneDrive/Desktop/Programming/FPS/src/Engine/Shader.cpp",
   "output": "CMakeFiles/fps.dir/src/Engine/Shader.cpp.obj"

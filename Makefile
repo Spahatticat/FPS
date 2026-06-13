@@ -176,6 +176,54 @@ src/Engine/Entity.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/src/Engine/Entity.cpp.s
 .PHONY : src/Engine/Entity.cpp.s
 
+src/Engine/Mesh.obj: src/Engine/Mesh.cpp.obj
+.PHONY : src/Engine/Mesh.obj
+
+# target to build an object file
+src/Engine/Mesh.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/src/Engine/Mesh.cpp.obj
+.PHONY : src/Engine/Mesh.cpp.obj
+
+src/Engine/Mesh.i: src/Engine/Mesh.cpp.i
+.PHONY : src/Engine/Mesh.i
+
+# target to preprocess a source file
+src/Engine/Mesh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/src/Engine/Mesh.cpp.i
+.PHONY : src/Engine/Mesh.cpp.i
+
+src/Engine/Mesh.s: src/Engine/Mesh.cpp.s
+.PHONY : src/Engine/Mesh.s
+
+# target to generate assembly for a file
+src/Engine/Mesh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/src/Engine/Mesh.cpp.s
+.PHONY : src/Engine/Mesh.cpp.s
+
+src/Engine/Model.obj: src/Engine/Model.cpp.obj
+.PHONY : src/Engine/Model.obj
+
+# target to build an object file
+src/Engine/Model.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/src/Engine/Model.cpp.obj
+.PHONY : src/Engine/Model.cpp.obj
+
+src/Engine/Model.i: src/Engine/Model.cpp.i
+.PHONY : src/Engine/Model.i
+
+# target to preprocess a source file
+src/Engine/Model.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/src/Engine/Model.cpp.i
+.PHONY : src/Engine/Model.cpp.i
+
+src/Engine/Model.s: src/Engine/Model.cpp.s
+.PHONY : src/Engine/Model.s
+
+# target to generate assembly for a file
+src/Engine/Model.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fps.dir\build.make CMakeFiles/fps.dir/src/Engine/Model.cpp.s
+.PHONY : src/Engine/Model.cpp.s
+
 src/Engine/Shader.obj: src/Engine/Shader.cpp.obj
 .PHONY : src/Engine/Shader.obj
 
@@ -263,6 +311,12 @@ help:
 	@echo ... src/Engine/Entity.obj
 	@echo ... src/Engine/Entity.i
 	@echo ... src/Engine/Entity.s
+	@echo ... src/Engine/Mesh.obj
+	@echo ... src/Engine/Mesh.i
+	@echo ... src/Engine/Mesh.s
+	@echo ... src/Engine/Model.obj
+	@echo ... src/Engine/Model.i
+	@echo ... src/Engine/Model.s
 	@echo ... src/Engine/Shader.obj
 	@echo ... src/Engine/Shader.i
 	@echo ... src/Engine/Shader.s
