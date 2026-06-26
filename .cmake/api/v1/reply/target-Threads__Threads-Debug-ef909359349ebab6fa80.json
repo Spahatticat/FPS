@@ -12,8 +12,8 @@
 		],
 		"files" : 
 		[
-			"C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake",
-			"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/msys64/mingw64/share/cmake/Modules/FindThreads.cmake",
+			"C:/msys64/mingw64/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
 			"C:/Program Files (x86)/GLFW/lib/cmake/glfw3/glfw3Config.cmake",
 			"CMakeLists.txt"
 		],

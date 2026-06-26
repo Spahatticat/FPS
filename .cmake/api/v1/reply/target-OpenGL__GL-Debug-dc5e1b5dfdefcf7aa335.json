@@ -10,7 +10,7 @@
 		],
 		"files" : 
 		[
-			"C:/Program Files/CMake/share/cmake-4.2/Modules/FindOpenGL.cmake",
+			"C:/msys64/mingw64/share/cmake/Modules/FindOpenGL.cmake",
 			"CMakeLists.txt"
 		],
 		"nodes" : 
